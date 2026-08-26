@@ -7,9 +7,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/eureka-server" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3I7quXPhlAfCaZRL1CaGINK7pFi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -18,8 +21,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "7644cd4f",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/isuri/Downloads/4 Semester/Enterprise Cloud  Architecture/Final Project/backend-microservices-platform",
+    "last_opened_file_path": "/home/isuri/Downloads/4 Semester/Enterprise Cloud  Architecture/Final Project/eureka-server",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -41,6 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1787126177436</updated>
       <workItem from="1787126178468" duration="10000" />
+      <workItem from="1787147891095" duration="81000" />
     </task>
     <servers />
   </component>
